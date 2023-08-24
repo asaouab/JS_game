@@ -1,0 +1,65 @@
+body
+{
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-family: arial;
+
+}
+.same
+{
+    background-color: rgb(25, 25, 25);
+    width: 140px;
+    height: 140px;
+    border: 3.6px solid white;
+    border-radius: 90px;
+    padding: 20px;
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+:hover .same
+{
+    background-color: rgb(156, 156, 156) ;
+    border-top-color: rgb(252, 97, 8);
+    border-bottom-color: rgb(240, 238, 235);
+    border-left-color: rgb(15, 67, 240);
+    border-right-color: rgb(192, 11, 11);
+}
+button
+{
+    background-color: transparent;
+    border: none;
+}
+.para
+{
+    font-size: 36px;
+    margin-left: 20px;
+}
+.result
+{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 240px;
+    margin-bottom: 50px;
+}
+.size
+{
+    height: 80px;
+}
+.other
+{
+    margin-bottom: 44px;
+    margin-left: 80px;
+}
+.reset
+{
+    background-color: rgb(255, 255, 255);
+    color:rgb(10, 175, 240);
+    padding: 10px 15px;
+    width: 160px;
+    font-weight: bold;
+    border: none;
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 40px;
+    cursor: pointer;
+}
